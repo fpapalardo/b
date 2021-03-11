@@ -1,0 +1,572 @@
+[
+  {
+    "symbol":  "ADA",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "AKRO",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ALGO",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ANKR",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ATOM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BAT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BLZ",
+    "longoffset":  "8",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BTS",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "CRV",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "DASH",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "DOGE",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ETC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "FTM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "IOST",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "IOTA",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LINK",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LTC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "MATIC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ONT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "RLC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "RSR",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SAND",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SKL",
+    "longoffset":  "10",
+    "shortoffset":  "18",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SXP",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "THETA",
+    "longoffset":  "7",
+    "shortoffset":  "9",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "TRX",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "VET",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "XMR",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "XRP",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ZEC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ZIL",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "RVN",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "COMP",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "1INCH",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "AAVE",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "AXS",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BAL",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BAND",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BAT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BCH",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BEL",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BTCST",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BZRX",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "CRV",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "CTK",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "CVC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "CHZ",
+    "longoffset":  "15",
+    "shortoffset":  "35",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "DEFI",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "DODO",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "EGLD",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ENJ",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "EOS",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "FIL",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "FLM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "FTM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "GRT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "HNT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ICX",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "KAVA",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "KNC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "KSM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LIT",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LRC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LTC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "LUNA",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "MKR",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "NEAR",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "NEO",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "OCEAN",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "OMG",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "QTUM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "REEF",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "REN",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SFP",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SNX",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SOL",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SRM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "STORJ",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "SUSHI",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "TRB",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "UNFI",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "UNI",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "WAVES",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "XEM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "XLM",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "XTZ",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "YFI",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "YFII",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ZEN",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ZRX",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BNB",
+    "longoffset":  "8",
+    "shortoffset":  "10",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "ETH",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "BTC",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "TOMO",
+    "longoffset":  "7",
+    "shortoffset":  "7",
+    "lickvalue":  "1000"
+  },
+  {
+    "symbol":  "COTI",
+    "longoffset":  "7",
+    "shortoffset":  "10",
+    "lickvalue":  "1000"
+  }
+]
