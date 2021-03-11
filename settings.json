@@ -1,0 +1,21 @@
+{
+    "exchange":  "binance",
+    "key":  "wO5dDU0dUY4gMJnBWJcImSmnb9VQjm9oJadJ7QdjArKIIunY4xSll2zGNf3Ya8Tb",
+    "secret":  "VQbkAEXHFrQKBe86Xfp7lBKhzsUlLg6V1HR9TZka3Vj7B1eKcZCCbUNWWPklcJ4B",
+    "auto_qty":  "True",
+    "longQty":  "0.1",
+    "shortQty":  "0.1",
+    "percentBal":  "0.3",
+    "maxPosition":  "30",
+    "dcaOne":  "1",
+    "factorOne":  "1",
+    "dcaTwo":  "1",
+    "factorTwo":  "1",
+    "leverage":  "10",
+    "takeprofit":  "0.3",
+    "stoploss":  "20",
+    "auth":  "ALPHA",
+    "delay":  "0.5",
+    "discordwebhook":  "https://discord.com/api/webhooks/818686534902874133/KiQbgfiEzGci9RfBAh-AE9NPDFqNNM6zrEWXOwi63lsZXYEKwyXBYv4JZPB9hp_EBXmI",
+    "sleeponstop":  "1"
+}
